@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <PackageType>Template</PackageType>
-        <PackageVersion>1.0.4</PackageVersion>
+        <PackageVersion>1.0.41</PackageVersion>
         <PackageId>ermol.cleanarchitecture.template</PackageId>
         <Title>Clean Architecture Project Template</Title>
         <Authors>Alex Ermol</Authors>
