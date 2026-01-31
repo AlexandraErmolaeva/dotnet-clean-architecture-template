@@ -13,7 +13,7 @@
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <ContentTargetFolders>content</ContentTargetFolders>
         <NoWarn>$(NoWarn);NU5128</NoWarn>
-        <RepositoryUrl> </RepositoryUrl>
+        <RepositoryUrl>https://github.com/AlexandraErmolaeva/dotnet-clean-architecture-template.git</RepositoryUrl>
         <PackageLicenseExpression>empty</PackageLicenseExpression>
     </PropertyGroup>
 
@@ -22,5 +22,5 @@
             Exclude="working\content\**\bin\**;working\content\**\obj\**" />
         <Compile Remove="**\*" />
     </ItemGroup>
-    
+
 </Project>
