@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Alex Ermol",
+    "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+    "identity": "ermol.cleanarchitecture.template",
+    "name": "Clean Architecture Project by Alex Ermol",
+    "description": "Микросервис с Clean Architecture. Author: Alex Ermol",
+    "shortName": "Capi",
+    "sourceName": "Capi",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
